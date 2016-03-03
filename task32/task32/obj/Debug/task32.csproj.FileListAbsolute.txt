@@ -1,0 +1,10 @@
+E:\_Documents\VGU_9semestr\Сетевые технологии\task32\task32\bin\Debug\task32.exe.config
+E:\_Documents\VGU_9semestr\Сетевые технологии\task32\task32\bin\Debug\task32.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task32\task32\bin\Debug\task32.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task32\task32\obj\Debug\task32.Form1.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task32\task32\obj\Debug\task32.Properties.Resources.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task32\task32\obj\Debug\task32.csproj.GenerateResource.Cache
+E:\_Documents\VGU_9semestr\Сетевые технологии\task32\task32\obj\Debug\task32.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task32\task32\obj\Debug\task32.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task32\task32\obj\Debug\task32.Form2.resources
+e:\_Documents\VGU_9semestr\Сетевые технологии\task32\task32\obj\Debug\task32.csprojResolveAssemblyReference.cache

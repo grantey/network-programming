@@ -1,0 +1,27 @@
+E:\_Documents\VGU_9semestr\Сетевые технологии\task2\task2\bin\Debug\task2.exe.config
+E:\_Documents\VGU_9semestr\Сетевые технологии\task2\task2\bin\Debug\task2.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task2\task2\bin\Debug\task2.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task2\task2\obj\Debug\task2.Form1.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task2\task2\obj\Debug\task2.Properties.Resources.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task2\task2\obj\Debug\task2.csproj.GenerateResource.Cache
+E:\_Documents\VGU_9semestr\Сетевые технологии\task2\task2\obj\Debug\task2.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task2\task2\obj\Debug\task2.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task2\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
+E:\Сететвые технологии 9 сем\task2\task2\bin\Debug\task2.exe.config
+E:\Сететвые технологии 9 сем\task2\task2\obj\Debug\task2.exe
+E:\Сететвые технологии 9 сем\task2\task2\obj\Debug\task2.pdb
+E:\Сететвые технологии 9 сем\task2\task2\bin\Debug\task2.exe
+E:\Сететвые технологии 9 сем\task2\task2\bin\Debug\task2.pdb
+E:\Сететвые технологии 9 сем\task2\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
+E:\Сететвые технологии 9 сем\task2\task2\obj\Debug\task2.Form1.resources
+E:\Сететвые технологии 9 сем\task2\task2\obj\Debug\task2.Properties.Resources.resources
+E:\Сететвые технологии 9 сем\task2\task2\obj\Debug\task2.csproj.GenerateResource.Cache
+D:\Сететвые технологии 9 сем\task2\task2\bin\Debug\task2.exe.config
+D:\Сететвые технологии 9 сем\task2\task2\obj\Debug\task2.exe
+D:\Сететвые технологии 9 сем\task2\task2\obj\Debug\task2.pdb
+D:\Сететвые технологии 9 сем\task2\task2\bin\Debug\task2.exe
+D:\Сететвые технологии 9 сем\task2\task2\bin\Debug\task2.pdb
+D:\Сететвые технологии 9 сем\task2\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
+D:\Сететвые технологии 9 сем\task2\task2\obj\Debug\task2.Form1.resources
+D:\Сететвые технологии 9 сем\task2\task2\obj\Debug\task2.Properties.Resources.resources
+D:\Сететвые технологии 9 сем\task2\task2\obj\Debug\task2.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+E:\_Documents\VGU_9semestr\Сетевые технологии\task34k\task34k\bin\Debug\task34k.exe.config
+E:\_Documents\VGU_9semestr\Сетевые технологии\task34k\task34k\bin\Debug\task34k.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task34k\task34k\bin\Debug\task34k.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task34k\task34k\obj\Debug\task34k.Form1.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task34k\task34k\obj\Debug\task34k.Properties.Resources.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task34k\task34k\obj\Debug\task34k.csproj.GenerateResource.Cache
+E:\_Documents\VGU_9semestr\Сетевые технологии\task34k\task34k\obj\Debug\task34k.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task34k\task34k\obj\Debug\task34k.pdb

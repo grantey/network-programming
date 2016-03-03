@@ -1,0 +1,22 @@
+E:\_Documents\VGU_9semestr\Сетевые технологии\task22\task22\bin\Debug\task22.exe.config
+E:\_Documents\VGU_9semestr\Сетевые технологии\task22\task22\bin\Debug\task22.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task22\task22\bin\Debug\task22.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task22\task22\obj\Debug\task22.Form1.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task22\task22\obj\Debug\task22.Properties.Resources.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task22\task22\obj\Debug\task22.csproj.GenerateResource.Cache
+E:\_Documents\VGU_9semestr\Сетевые технологии\task22\task22\obj\Debug\task22.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task22\task22\obj\Debug\task22.pdb
+E:\Сететвые технологии 9 сем\task22\task22\bin\Debug\task22.exe.config
+E:\Сететвые технологии 9 сем\task22\task22\obj\Debug\task22.exe
+E:\Сететвые технологии 9 сем\task22\task22\obj\Debug\task22.pdb
+E:\Сететвые технологии 9 сем\task22\task22\bin\Debug\task22.exe
+E:\Сететвые технологии 9 сем\task22\task22\bin\Debug\task22.pdb
+E:\Сететвые технологии 9 сем\task22\task22\obj\Debug\task22.csprojResolveAssemblyReference.cache
+E:\Сететвые технологии 9 сем\task22\task22\obj\Debug\task22.Form1.resources
+E:\Сететвые технологии 9 сем\task22\task22\obj\Debug\task22.Properties.Resources.resources
+E:\Сететвые технологии 9 сем\task22\task22\obj\Debug\task22.csproj.GenerateResource.Cache
+D:\Сететвые технологии 9 сем\task22\task22\bin\Debug\task22.exe.config
+D:\Сететвые технологии 9 сем\task22\task22\obj\Debug\task22.csprojResolveAssemblyReference.cache
+D:\Сететвые технологии 9 сем\task22\task22\obj\Debug\task22.Form1.resources
+D:\Сететвые технологии 9 сем\task22\task22\obj\Debug\task22.Properties.Resources.resources
+D:\Сететвые технологии 9 сем\task22\task22\obj\Debug\task22.csproj.GenerateResource.Cache

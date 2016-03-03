@@ -1,0 +1,26 @@
+E:\_Documents\VGU_9semestr\Сетевые технологии\task1\task1\bin\Debug\task1.exe.config
+E:\_Documents\VGU_9semestr\Сетевые технологии\task1\task1\bin\Debug\task1.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task1\task1\bin\Debug\task1.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task1\task1\obj\Debug\task1.Form1.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task1\task1\obj\Debug\task1.Properties.Resources.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task1\task1\obj\Debug\task1.csproj.GenerateResource.Cache
+E:\_Documents\VGU_9semestr\Сетевые технологии\task1\task1\obj\Debug\task1.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task1\task1\obj\Debug\task1.pdb
+E:\Сететвые технологии 9 сем\task1\task1\bin\Debug\task1.exe.config
+E:\Сететвые технологии 9 сем\task1\task1\obj\Debug\task1.exe
+E:\Сететвые технологии 9 сем\task1\task1\obj\Debug\task1.pdb
+E:\Сететвые технологии 9 сем\task1\task1\bin\Debug\task1.exe
+E:\Сететвые технологии 9 сем\task1\task1\bin\Debug\task1.pdb
+E:\Сететвые технологии 9 сем\task1\task1\obj\Debug\task1.csprojResolveAssemblyReference.cache
+E:\Сететвые технологии 9 сем\task1\task1\obj\Debug\task1.Form1.resources
+E:\Сететвые технологии 9 сем\task1\task1\obj\Debug\task1.Properties.Resources.resources
+E:\Сететвые технологии 9 сем\task1\task1\obj\Debug\task1.csproj.GenerateResource.Cache
+D:\Сететвые технологии 9 сем\task1\task1\bin\Debug\task1.exe.config
+D:\Сететвые технологии 9 сем\task1\task1\obj\Debug\task1.exe
+D:\Сететвые технологии 9 сем\task1\task1\obj\Debug\task1.pdb
+D:\Сететвые технологии 9 сем\task1\task1\bin\Debug\task1.exe
+D:\Сететвые технологии 9 сем\task1\task1\bin\Debug\task1.pdb
+D:\Сететвые технологии 9 сем\task1\task1\obj\Debug\task1.csprojResolveAssemblyReference.cache
+D:\Сететвые технологии 9 сем\task1\task1\obj\Debug\task1.Form1.resources
+D:\Сететвые технологии 9 сем\task1\task1\obj\Debug\task1.Properties.Resources.resources
+D:\Сететвые технологии 9 сем\task1\task1\obj\Debug\task1.csproj.GenerateResource.Cache

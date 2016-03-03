@@ -1,0 +1,10 @@
+E:\_Documents\VGU_9semestr\Сетевые технологии\task33\task33\bin\Debug\task33.exe.config
+E:\_Documents\VGU_9semestr\Сетевые технологии\task33\task33\bin\Debug\task33.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task33\task33\bin\Debug\task33.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task33\task33\obj\Debug\task33.Form1.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task33\task33\obj\Debug\task33.Properties.Resources.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task33\task33\obj\Debug\task33.csproj.GenerateResource.Cache
+E:\_Documents\VGU_9semestr\Сетевые технологии\task33\task33\obj\Debug\task33.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task33\task33\obj\Debug\task33.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task33\task33\obj\Debug\task33.Form2.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task33\task33\obj\Debug\task33.Form3.resources

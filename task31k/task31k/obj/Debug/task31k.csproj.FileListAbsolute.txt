@@ -1,0 +1,9 @@
+E:\_Documents\VGU_9semestr\Сетевые технологии\task31k\task31k\bin\Debug\task31k.exe.config
+E:\_Documents\VGU_9semestr\Сетевые технологии\task31k\task31k\bin\Debug\task31k.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task31k\task31k\bin\Debug\task31k.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task31k\task31k\obj\Debug\task31k.Form1.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task31k\task31k\obj\Debug\task31k.Properties.Resources.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task31k\task31k\obj\Debug\task31k.csproj.GenerateResource.Cache
+E:\_Documents\VGU_9semestr\Сетевые технологии\task31k\task31k\obj\Debug\task31k.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task31k\task31k\obj\Debug\task31k.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task31k\task31k\obj\Debug\task31k.csprojResolveAssemblyReference.cache

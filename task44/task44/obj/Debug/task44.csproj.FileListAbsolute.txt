@@ -1,0 +1,12 @@
+E:\_Documents\VGU_9semestr\Сетевые технологии\task44\task44\bin\Debug\task44.exe.config
+E:\_Documents\VGU_9semestr\Сетевые технологии\task44\task44\bin\Debug\task44.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task44\task44\bin\Debug\task44.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task44\task44\obj\Debug\task44.Form1.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task44\task44\obj\Debug\task44.Properties.Resources.resources
+E:\_Documents\VGU_9semestr\Сетевые технологии\task44\task44\obj\Debug\task44.csproj.GenerateResource.Cache
+E:\_Documents\VGU_9semestr\Сетевые технологии\task44\task44\obj\Debug\task44.exe
+E:\_Documents\VGU_9semestr\Сетевые технологии\task44\task44\obj\Debug\task44.pdb
+E:\_Documents\VGU_9semestr\Сетевые технологии\task44\task44\obj\Debug\task44.csprojResolveAssemblyReference.cache
+F:\Сететвые технологии 9 сем\task44\task44\bin\Debug\task44.exe.config
+F:\Сететвые технологии 9 сем\task44\task44\obj\Debug\task44.exe
+F:\Сететвые технологии 9 сем\task44\task44\obj\Debug\task44.pdb

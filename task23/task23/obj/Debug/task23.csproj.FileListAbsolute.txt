@@ -1,0 +1,8 @@
+D:\work\ПМ-51\Бакулин\task23\task23\bin\Debug\task23.exe.config
+D:\work\ПМ-51\Бакулин\task23\task23\bin\Debug\task23.exe
+D:\work\ПМ-51\Бакулин\task23\task23\bin\Debug\task23.pdb
+D:\work\ПМ-51\Бакулин\task23\task23\obj\Debug\task23.Properties.Resources.resources
+D:\work\ПМ-51\Бакулин\task23\task23\obj\Debug\task23.csproj.GenerateResource.Cache
+D:\work\ПМ-51\Бакулин\task23\task23\obj\Debug\task23.exe
+D:\work\ПМ-51\Бакулин\task23\task23\obj\Debug\task23.pdb
+D:\work\ПМ-51\Бакулин\task23\task23\obj\Debug\task23.Form1.resources
